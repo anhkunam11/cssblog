@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://zodamua.com' target='_blank'><img src='http://i.imgur.com/QORPYDx.jpg' width='500px'/>Áo Khoác Nam Đẹp Nhất 2015</a>. Tại Zodamua.com. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://zodamua.com' target='_blank'><img src='http://zodamua.com/image/data/AN0/AN004/AN004%20(1).jpg' width='500px'/>Áo Khoác Nam Đẹp Nhất 2015</a>. Tại Zodamua.com. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
